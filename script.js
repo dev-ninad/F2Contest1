@@ -45,5 +45,5 @@ const employees = [
       { id: 7, name: "Bhushan", age: "29", profession: "designer" },
     ];
     const concatenatedArray = employees.concat(newArray);
-    console.log(concatenatedArray);
+    console.log("Concatenated array: ", concatenatedArray);
   }
